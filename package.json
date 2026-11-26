@@ -1,0 +1,16 @@
+{
+  "name": "drummer-pro-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DRUMMER PRO offline-capable Android app wrapper",
+  "scripts": {
+    "build": "node scripts/verify.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
